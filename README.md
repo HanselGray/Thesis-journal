@@ -17,3 +17,10 @@ Contains materials related to my thesis statement
 
 - [Analysis of Linux OS Security Tools for Packet Filtering](https://scispace.com/pdf/analysis-of-linux-os-security-tools-for-packet-filtering-and-3ou2qzeed0.pdf)  
   Comparative analysis of Linux security tools (iptables, nftables, XDP) for packet filtering.  
+
+# Tutorials / Guides
+- [Learning eBPF (Full Book PDF) — Isovalent / Cilium](https://cilium.isovalent.com/hubfs/Learning%20eBPF%20New%20Version.pdf?utm_campaign=2023-03-E%3Abook-Learning-eBPF-Full-book&utm_medium=email&_hsmi=356121073&utm_content=356121073&utm_source=hs_automation)  
+  A comprehensive guidebook covering eBPF concepts, usage, and internals.  
+
+- [xdp-project / xdp-tutorial (GitHub)](https://github.com/xdp-project/xdp-tutorial)  
+  Hands-on XDP tutorial repository demonstrating how to write and deploy XDP programs.  
