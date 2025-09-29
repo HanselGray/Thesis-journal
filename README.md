@@ -26,3 +26,7 @@ Contains materials related to my thesis statement
 
 - [xdp-project / xdp-tutorial (GitHub)](https://github.com/xdp-project/xdp-tutorial)  
   Hands-on XDP tutorial repository demonstrating how to write and deploy XDP programs.  
+
+- [Getting Started with nftables — Red Hat Enterprise Linux 8 Documentation](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking) — Red Hat’s guide on using **nftables** in RHEL 8, covering configuration, migration from iptables, NAT, scripting, debugging, and more.
+
+- [Quick Reference: nftables in 10 Minutes](https://wiki.nftables.org/wiki-nftables/index.php/Quick_reference-nftables_in_10_minutes) — A concise cheat-sheet style guide to get up to speed with `nftables` syntax, commands, and usage quickly.
