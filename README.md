@@ -9,7 +9,9 @@ Contains materials related to my thesis statement
   A talk summary on how Cloudflare leverages BPF extensively in its Linux-based infrastructure.  
 
 - [iptables, nftables and XDP on Linux — LinkedIn](https://www.linkedin.com/pulse/iptables-nftables-xdp-linux-cristo-fernando-abadia-lopez-wxjvf/)  
-  Comparison of packet filtering approaches in Linux: iptables, nftables, and XDP.  
+  Comparison of packet filtering approaches in Linux: iptables, nftables, and XDP.
+
+- [Benchmarking nftables — Performing DDoS Protection (April 11, 2017)](https://developers.redhat.com/blog/2017/04/11/benchmarking-nftables#performing_ddos_protection) — Red Hat Developer blog post from **April 11, 2017**
 
 # Research papers
 - [Packet Filtering with eBPF and XDP — TUM](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/ITC30-Packet-Filtering-eBPF-XDP.pdf)  
