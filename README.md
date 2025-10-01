@@ -44,6 +44,7 @@ Contains materials related to my thesis statement
 
 - [Program Types and ELF Sections — libbpf Documentation](https://libbpf.readthedocs.io/en/latest/program_types.html) — This page describes the various BPF program types supported by **libbpf**, their respective ELF section naming conventions, and how each program type is attached (e.g. via tracepoints, kprobes, cgroups, etc.).
 
+- [eBPF official documentation](https://docs.ebpf.io/) - eBPF documentation
 ---
 
 # Dedicated Firewall
