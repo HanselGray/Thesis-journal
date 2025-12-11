@@ -1,4 +1,6 @@
 #!/bin/bash
 
-sudo bpftool net detach xdp dev ens33
-sudo rm /sys/fs/bpf/xdp_drop_ip
+bpftool net detach xdp dev ens33
+rm /sys/fs/bpf/xdp_prog
+rm /home/gray/firewall-script/xdp_script/xdp_rules.c
+rm /home/gray/firewall-script/xdp_script/xdp_rules.o
